@@ -13,4 +13,4 @@ This repository contains a front-end component for an **Order Summary Card** bui
 - **Interactive Elements**: Enhances user experience.  
 
 ## Demo
-View the live preview of the component here.
+View the live preview of the component [here](https://arbaz93.github.io/order-summary-component-main/).
